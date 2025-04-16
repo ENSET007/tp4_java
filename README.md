@@ -1,7 +1,7 @@
 TP4 - Java
 Réalisé par : ******
 
-Exercice 1 — Application des concepts POO en Java
+### Exercice 1 — Application des concepts POO en Java
 Cet exercice m’a permis de mettre en pratique les concepts fondamentaux de la programmation orientée objet en Java, notamment :
 
 La généricité via l’interface IMetier
