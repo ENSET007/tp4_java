@@ -1,5 +1,5 @@
-TP4 - Java
-Réalisé par : ******
+# TP4 - Java
+## Réalisé par : ******
 
 ### Exercice 1 — Application des concepts POO en Java
 Cet exercice m’a permis de mettre en pratique les concepts fondamentaux de la programmation orientée objet en Java, notamment :
@@ -16,7 +16,7 @@ L’ajout de la persistance des données
 
 La création d’une interface graphique plus évoluée
 
-Exercice 2 — Les Wildcards en Java
+### Exercice 2 — Les Wildcards en Java
 Cet exercice a illustré l’importance des wildcards pour une manipulation souple et sûre des collections génériques. Voici un résumé des différentes variantes :
 
 <? extends Animal> : permet de lire les éléments d’une collection de n’importe quelle sous-classe de Animal, mais interdit l’ajout de nouveaux éléments.
